@@ -1,0 +1,7 @@
+export const ADD_TODO = 'add_todo'
+export const REMOVE_TODO = 'remove_todo'
+export const UPDATE_TODO = 'update_todo'
+export const SET_ALL_STATUS = 'set_all_status'
+export const REMOVE_ALL_COMPLETED = 'remove_all_completed'
+export const CHANGE_SHOW_TYPE = 'change_show_type'
+export const REQ_TODOS = 'req_todos'
